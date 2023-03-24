@@ -1,0 +1,34 @@
+/*==============================
+        initial Styles
+==============================*/
+/* quitar el margin y el padding para eliminar espacios automaticos en las etiquetas */
+/* box sizing : asegurar cuando le demos una direccion a un contenedor esa dimension se quede en el contenedor y no haya presiones en el crecimiento */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;  /* pasar ahcer uso del rem */
+    font-family: 'DM Sans',sans-serif;
+}
+/*
+1. Posicionamiento
+2. Modelo de caja (Box model)
+3. Tipografiía
+4. Visuales
+5. Otros
+*/
+:root {
+    /* Colores */
+    --bitcoin-orange: #F7931A;
+    --soft-orange:#FFE9D5;
+    --secondary-blue:#1A9af7;
+    --soft-blue:#e7f5ff;
+    --warm-black:#201e1c;
+    --black:#282623;
+    --grey:#bababa;
+    --off-white:#faf8f7;
+    --just-white:#fff;
+
+}
