@@ -413,13 +413,22 @@ main {
     line-height: 1.8rem;
     color: #757575;
 }
+.plans-container--slider {
+    display: flex;
+    height: 316px; /* mas alto que las tarjetas mismas (altura de tarjetas + 250pxs) */
+    /* slider */
+    overflow-x: scroll; /* slider paso 1 */
+    overscroll-behavior-x: contain; /* slider paso 2 */
+    scroll-snap-type: x proximity; /* slider paso 3 */
+}
 .plans-container--card {
-    position: relative;
+    position: relative; 
+    scroll-snap-align: center;/* slider Paso 4: jala al centro del elemento */
     width: 70%; /* porque no ocupa todo el ancho de su contenedor */
     min-width: 230px;
     max-width: 300px;
     height: 250px;
-    margin: 50px auto 0; /* auto cuando se carga hacia un lado, por la suma de todo */
+    margin: 50px 20px 0; /* auto cuando se carga hacia un lado, por la suma de todo */
     padding: 0 15px;
     background-color: var(--just-white);
     border-radius: 15px;
