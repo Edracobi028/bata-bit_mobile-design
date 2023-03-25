@@ -4,12 +4,12 @@
 - https://edracobi028.github.io/bata-bit_mobile-design/
 
 ## First Mobile
-![Captura desde 2023-03-25 16-45-57](https://user-images.githubusercontent.com/62727846/227747160-e6cc97a3-ae76-4be2-8402-47f10df48ae2.png)
-![image](https://user-images.githubusercontent.com/62727846/227747319-b42ce340-51dd-40f4-a405-78592d245aba.png)
-![image](https://user-images.githubusercontent.com/62727846/227747461-50a71946-da0c-4b28-b440-f5fea96b9fe9.png)
-![image](https://user-images.githubusercontent.com/62727846/227747333-fdf6ddbd-672f-4cc6-a346-68d6a1175300.png)
-![image](https://user-images.githubusercontent.com/62727846/227747452-55b1152f-2acc-4bf3-ad36-833825b282a5.png)
-![image](https://user-images.githubusercontent.com/62727846/227747347-58628a5e-665a-46aa-9165-bffc34a3a8d7.png)
+![image](https://user-images.githubusercontent.com/62727846/227747495-8d745541-dd0a-4d64-b98c-5d9fea09d5de.png)
+![image](https://user-images.githubusercontent.com/62727846/227747496-82267af1-36d9-4242-a85a-2fec9c67f2f9.png)
+![image](https://user-images.githubusercontent.com/62727846/227747501-989641ab-65c9-4bbc-b09f-5c5a6745a7b3.png)
+
+![image](https://user-images.githubusercontent.com/62727846/227747507-8c6dc0f5-0ac0-457e-a707-6659029ebca6.png)
+![image](https://user-images.githubusercontent.com/62727846/227747513-096606d0-cc4a-4e37-a350-16e475a043c7.png)
 
 ## Desktop
 ![image](https://user-images.githubusercontent.com/62727846/227747397-f4266670-d974-4769-8128-ec027cd81937.png)
