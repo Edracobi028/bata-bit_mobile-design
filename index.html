@@ -11,6 +11,8 @@
         href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@300;500&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="./style.css">
+    <!-- media= Para que cargue el estilo dependiendo su pantalla -->
+    <link rel="stylesheet" href="./css/tablet.css" media="(min-width: 930px)">
     <title>Document</title>
 </head>
 
@@ -62,10 +64,6 @@
                         <p><b> Actualizado:</b> 23 Marzo 19:45</p>
                     </div> 
                 </div>
-
-            </section>
-
-            <section class="main-tables-container">
                 <div class="main-currency-table">
                     <p class="currency-table--title--comissions">Comisiones</p>
 
@@ -98,6 +96,8 @@
                 </div>
 
             </section>
+
+           
         </section>
 
         <section class="main-product-detail">
@@ -143,20 +143,21 @@
                 <p>Cualquier plan te da acceso completo a nuestra plataforma.</p>
             </div>
             <section class="plans-container--slider">
+                
+                <article class="plans-container--card">
+                    <div class="plan-info-container">
+                        <h3 class="plan-card--title">Pago Mensual</h3>
+                        <p class="plan-card--price"> <span>$</span>19</p>
+                        <p class="plan-card--saving">*Costo mensual que no sobrepase tus gastos.</p>
+                        <button class="plan-card--ca">Escoger este <span></span></button>
+                    </div>
+                </article>
                 <article class="plans-container--card">
                     <p class="recommended">Recomendado</p>
                     <div class="plan-info-container">
                         <h3 class="plan-card--title">Pago Anual</h3>
                         <p class="plan-card--price"> <span>$</span>99</p>
                         <p class="plan-card--saving">*Ahorras $129 comparado al plan mensual.</p>
-                        <button class="plan-card--ca">Escoger este <span></span></button>
-                    </div>
-                </article>
-                <article class="plans-container--card">
-                    <div class="plan-info-container">
-                        <h3 class="plan-card--title">Pago Mensual</h3>
-                        <p class="plan-card--price"> <span>$</span>19</p>
-                        <p class="plan-card--saving">*Costo mensual que no sobrepase tus gastos.</p>
                         <button class="plan-card--ca">Escoger este <span></span></button>
                     </div>
                 </article>

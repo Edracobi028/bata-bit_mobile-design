@@ -148,7 +148,16 @@ main {
     line-height: 1.6rem;  
     color: #757575;
 }
+.main-tables-container {
+    margin: 0px 40px; /* espacios laterales */
+    display: flex;
+    height: 400px;/* 360 */
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+}
 .main-currency-table {
+    scroll-snap-align: center; /* Slider paso 4 */
     width: 70%;
     min-width: 235px;
     max-width: 500px;   
@@ -420,6 +429,7 @@ main {
     overflow-x: scroll; /* slider paso 1 */
     overscroll-behavior-x: contain; /* slider paso 2 */
     scroll-snap-type: x proximity; /* slider paso 3 */
+    margin: 0px 50px; /* espacios laterales */
 }
 .plans-container--card {
     position: relative; 
