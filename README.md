@@ -8,8 +8,6 @@
 ![image](https://user-images.githubusercontent.com/62727846/227747496-82267af1-36d9-4242-a85a-2fec9c67f2f9.png)
 ![image](https://user-images.githubusercontent.com/62727846/227747501-989641ab-65c9-4bbc-b09f-5c5a6745a7b3.png)
 
-![image](https://user-images.githubusercontent.com/62727846/227747507-8c6dc0f5-0ac0-457e-a707-6659029ebca6.png)
-![image](https://user-images.githubusercontent.com/62727846/227747513-096606d0-cc4a-4e37-a350-16e475a043c7.png)
 
 ## Desktop
 ![image](https://user-images.githubusercontent.com/62727846/227747397-f4266670-d974-4769-8128-ec027cd81937.png)
