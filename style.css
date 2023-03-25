@@ -103,6 +103,9 @@ header img{
     margin-left: 10px;
     background-image: url('./assets/icons/down-arrow.svg');
 }
+/*==============================
+        MAIN
+==============================*/
 main {
     width: 100%;
     height: auto; /* contenido define la altura  */
